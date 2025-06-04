@@ -1,0 +1,2 @@
+rosaria
+-DCATKIN_DEVEL_PREFIX=/home/marcoreis/pioneer_ws/devel -DCMAKE_INSTALL_PREFIX=/home/marcoreis/pioneer_ws/install -G Unix Makefiles
