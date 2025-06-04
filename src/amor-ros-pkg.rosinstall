@@ -1,0 +1,4 @@
+- hg:
+    uri: https://amor-ros-pkg.googlecode.com/hg/
+    local-name: amor-ros-pkg
+
